@@ -1,0 +1,12 @@
+{
+  "name": "rizomacoop-wp",
+  "version": "1.0.0",
+  "author": "emanuelsaramago.com",
+  "scripts": {
+    "start": "wp-env start",
+    "stop": "wp-env stop"
+  },
+  "devDependencies": {
+    "@wordpress/env": "^10.16.0"
+  }
+}

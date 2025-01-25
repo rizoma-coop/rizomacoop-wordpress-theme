@@ -1,0 +1,21 @@
+{
+  "core": "WordPress/WordPress#master",
+  "phpVersion": "8.2",
+  "name": "RizomaCoop",
+  "port": 8080,
+  "plugins": [
+    "./plugins/rizomacoop-blocks"
+  ],
+  "themes": [
+    "./themes/rizomacoop"
+  ],
+  "mappings": {
+    "wp-content/plugins/rizomacoop-blocks": "./plugins/rizomacoop-blocks",
+    "wp-content/themes/rizomacoop": "./themes/rizomacoop"
+  },
+  "config": {
+    "WP_ENV_TYPE": "development",
+    "WP_DEBUG": true,
+    "WP_DEBUG_DISPLAY": true
+  }
+}
