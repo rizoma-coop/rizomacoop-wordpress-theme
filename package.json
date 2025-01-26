@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "emanuelsaramago.com",
   "scripts": {
-    "start": "wp-env start",
+    "start": "wp-env start --name rizomacoop",
     "stop": "wp-env stop"
   },
   "devDependencies": {

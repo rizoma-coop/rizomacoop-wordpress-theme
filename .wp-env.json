@@ -1,8 +1,7 @@
 {
   "core": "WordPress/WordPress#master",
   "phpVersion": "8.2",
-  "name": "RizomaCoop",
-  "port": 8080,
+  "port": 2390,
   "plugins": [
     "./plugins/rizomacoop-blocks"
   ],
