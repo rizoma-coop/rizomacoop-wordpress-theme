@@ -1,0 +1,21 @@
+{
+  "name": "rizomacoop",
+  "version": "1.0.0",
+  "description": "RizomaCoop website backend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "docker-compose up -d && node index.js",
+    "stop": "docker-compose down"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizoma-coop/rizomacoop-wp.git"
+  },
+  "author": "rizomacoop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizoma-coop/rizomacoop-wp/issues"
+  },
+  "homepage": "https://github.com/rizoma-coop/rizomacoop-wp#readme"
+}
