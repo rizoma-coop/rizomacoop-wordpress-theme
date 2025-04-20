@@ -1,0 +1,10 @@
+.env
+dist
+build
+node_modules
+
+plugins/*
+!plugins/rizomacoop-*
+
+themes/*
+!themes/rizomacoop
