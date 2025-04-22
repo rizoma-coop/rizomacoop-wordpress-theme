@@ -44,7 +44,8 @@
 			],
 			"units": [
 				"rem",
-				"%"
+				"%",
+				"vh"
 			]
 		},
 		"typography": {
