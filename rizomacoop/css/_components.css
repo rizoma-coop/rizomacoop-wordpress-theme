@@ -11,6 +11,7 @@
   font-size: var(--wp--preset--font-size--xxlarge);
   font-weight: 600;
   text-align: center;
+  font-family: var(--wp--preset--font-family--caveat);
 
   &:after {
     content: '';

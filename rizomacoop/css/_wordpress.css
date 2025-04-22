@@ -19,7 +19,7 @@
   font-weight: 600;
   font-size: var(--wp--preset--font-size--small);
 }
-[class*="wp-container-core-navigation"] .current-menu-item::after {
+[class*="wp-container-core-navigation"] .current-menu-item:not(.c-navigation-button)::after {
   content: '';
   position: absolute;
   top: 100%;

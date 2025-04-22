@@ -71,11 +71,11 @@
 				},
 				{
 					"fluid": {
-						"max": "2rem",
+						"max": "3rem",
 						"min": "1.75rem"
 					},
 					"name": "Extra Large",
-					"size": "1.75rem",
+					"size": "3rem",
 					"slug": "x-large"
 				},
 				{
